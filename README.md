@@ -1,19 +1,29 @@
 # Calculadora IMC
-Desc
+Fiz esse aplicativo no intuito de ajudar as pessoas a cuidar da sua saude corporal, tem como objectivo principal fazer o calculo do IMC que mostra o resultado na tela seguinte, usei a linguaguem de programação Kotlin.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
+<img src="https://github.com/armeniodurao/CalculadoraIMC/assets/172120513/f38ebac4-fb3f-4fa4-ac76-abea71d068fa" width=260/> <img src="https://github.com/armeniodurao/CalculadoraIMC/assets/172120513/a2e11c44-d342-4940-9359-c9cca316edb5" width=260/>
 
 ## Tecnologias
-Techs
+- Activity
+- Intent
+- SnackBar
+- ViewsGroups
+  - LinearLayout
+  - ConstraintLayout
+- Views
+  - ImageView
+  - TextView
+  - EditText
+  - Button
 
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2024 Arménio Durão
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
